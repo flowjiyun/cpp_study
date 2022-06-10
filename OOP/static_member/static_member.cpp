@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// 개체가 생성될 때 마다 정적 멤버 변수를 사용하여 멤버 변수 업데이트 시켜줌
 class Color
 {
 public:
